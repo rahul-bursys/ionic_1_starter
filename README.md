@@ -341,6 +341,6 @@ Made with <3
 # Languages to be used 
 Language      |  Description
 ------------- |  -----------
-`Typescript`     TypeScript is an open-source object-oriented language developed and maintained by Microsoft, licensed under                  Apache 2 license. It is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript was                    developed under Anders Hejlsberg, who also led the creation of the C# language. TypeScript was first                        released in October 2012.
+Typescript       TypeScript is an open-source object-oriented language developed and maintained by Microsoft, licensed under                  Apache 2 license. It is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript was                    developed under Anders Hejlsberg, who also led the creation of the C# language. TypeScript was first                        released in October 2012.
 
 
