@@ -342,9 +342,7 @@ Made with <3
 Language      |  Description
 ------------- |  -----------------------------------------------------------------------------------------------------------
 `Typescript`  |  TypeScript is an open-source object-oriented language developed and maintained by Microsoft, licensed under                  Apache 2 license. It is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript was                    developed under Anders Hejlsberg, who also led the creation of the C# language. TypeScript was first                        released in October 2012.
-------------- |  -----------------------------------------------------------------------------------------------------------
 'AngularJS'   |  AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language                    and lets you extend HTML's syntax to express your application's components clearly and succinctly.                          AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to                    write. And it all happens within the browser, making it an ideal partner with any server technology.
-------------- |  -----------------------------------------------------------------------------------------------------------
 'Scss'        |  CSS on its own can be fun, but stylesheets are getting larger, more complex, and harder to maintain. This                    is where a preprocessor can help. Sass lets you use features that don't exist in CSS yet like variables,                    nesting, mixins, inheritance and other nifty goodies that make writing CSS fun again.
 
 
