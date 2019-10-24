@@ -345,5 +345,7 @@ Language      |  Description
 `AngularJS`   |  AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language                    and lets you extend HTML's syntax to express your application's components clearly and succinctly.                          AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to                    write. And it all happens within the browser, making it an ideal partner with any server technology.
   `Scss`      |  CSS on its own can be fun, but stylesheets are getting larger, more complex, and harder to maintain. This                    is where a preprocessor can help. Sass lets you use features that don't exist in CSS yet like variables,                    nesting, mixins, inheritance and other nifty goodies that make writing CSS fun again.
   `html`      |  html Stands for HyperText Markup Language.it is basically used for design the pages.html is a common                        language that can use for both web or mobile Applications.html language is used to manipulate text, images                  and other content to display it in required format.
+  `CSS`       | Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a                   markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+  
 
 
